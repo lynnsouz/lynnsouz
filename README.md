@@ -51,12 +51,11 @@ patterns.
 > Assist Junior developers.
 > 
 
-<dl>
-  <dt> everis an NTT Data Company</dt>
-    <dd>Develop and update features and tests on Itaúcard iOS app.</dd>
-    <dd>Keychain and CoreData.</dd>
-    <dd>Asynchronous programming.</dd>
-</dl>
+- everis an NTT Data Company
+    - Aug 2019 – Jul 2020
+  - Develop and update features and tests on Itaúcard iOS app.
+  - Keychain and CoreData.
+  - Asynchronous programming.
 
 ## Stefanini
 > Develop features for the Banco do Brasil app with ReactNative(JavaScript).
