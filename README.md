@@ -27,29 +27,28 @@ Worked with some of the top Brazilian Banks, such as Banco Do Brasil, C6Bank, It
 
 # WORK EXPERIENCE
 ## ACT Digital - C6 Bank
-> Implementing new features and updating existing user interfaces for the C6 Bank app.
-> MVP Architecture with Coordinators.
-> Code review for other developers.
-> Look into requirements for projects independently.
-> 
+    - Jul 2022 to Now
+  - Implementing new features and updating existing user interfaces for the C6 Bank app.
+  - MVP Architecture with Coordinators.
+  - Code review for other developers.
+  - Look into requirements for projects independently.
 
 ## Empiricus Research
-> Implement features and updates for the Empiricus app.
-> MVVM Architecture with RXSwift.
-> Develop integration with another application (Real Valor and Vitreo).
-> Implement build and distribution automation with Bitrise(CI/CD).
-> Update iOS version to support Swift-UI.
-> 
+    - Mar 2021 to Jun 2022
+  - Implement features and updates for the Empiricus app.
+  - MVVM Architecture with RXSwift.
+  - Develop integration with another application (Real Valor and Vitreo).
+  - Implement build and distribution automation with Bitrise(CI/CD).
+  - Update iOS version to support Swift-UI.
 
 ## IBM
-> Develop features for the Santander Way app and Santander Enterprise app.
-> Clean Swift architecture with SnapKit for view coding.
-> Translate Objective-C to Swift.
-> Develop PIX(New instant payment system from the Central Bank of Brazil) for Enterprise.
-> Advocate for outstanding development practices, improvements in architecture and
-patterns.
-> Assist Junior developers.
-> 
+    - Jul 2020 to Mar 2021
+  - Develop features for the Santander Way app and Santander Enterprise app.
+  - Clean Swift architecture with SnapKit for view coding.
+  - Translate Objective-C to Swift.
+  - Develop PIX(New instant payment system from the Central Bank of Brazil) for Enterprise.
+  - Advocate for outstanding development practices, improvements in architecture and patterns.
+  - Assist Junior developers.
 
 - everis an NTT Data Company
     - Aug 2019 – Jul 2020
@@ -58,20 +57,22 @@ patterns.
   - Asynchronous programming.
 
 ## Stefanini
-> Develop features for the Banco do Brasil app with ReactNative(JavaScript).
-> SCRUM.
+    - Jan 2019 to Aug 2019
+  - Develop features for the Banco do Brasil app with ReactNative(JavaScript).
+  - SCRUM.
 
 ## Yi Mobile / Orbit Labs
-> Build uniquely beautiful and robust user interfaces with Apple’s frameworks.
-> REST and networking protocols.
-> CocoaPods integration.
-> Publicate sophisticated new releases at AppStore and TestFlight.
-> 
+    - Jan 2017 to Jan 2019
+  - Build uniquely beautiful and robust user interfaces with Apple’s frameworks.
+  - REST and networking protocols.
+  - CocoaPods integration.
+  - Publicate sophisticated new releases at AppStore and TestFlight.
+  - 
 
 ## BEPiD(Brazilian Education Program for iOS Development) or Apple Developer Academy
-> Learn iOS development and Debugging at Xcode. (Objective-C and Swift)
-> Apple frameworks.
-> Cocoa touch.
-> CBL methodology.
-> IBM Watson development and integration.
-> 
+    - Jan 2015 to Dec 2016
+  - Learn iOS development and Debugging at Xcode. (Objective-C and Swift)
+  - Apple frameworks.
+  - Cocoa touch.
+  - CBL methodology.
+  - IBM Watson development and integration.
